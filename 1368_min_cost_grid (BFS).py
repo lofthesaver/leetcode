@@ -55,7 +55,3 @@ class Solution:
                 return cost
 
         return -1
-
-grid = [[1,1,1,1],[2,2,2,2],[1,1,1,1],[2,2,2,2]]
-
-print(Solution().minCost(grid))
