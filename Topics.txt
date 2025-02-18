@@ -2,7 +2,7 @@ BFS:
 0407_trapping_rain_water_II
 1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid
 2493_divide_nodes_into_the_maximum_number_of_groups
-2658_max_num_of_fish
+2658_maximum_number_of_fish_in_a_grid
 2698_find_the_punishment_number_of_an_integer
 
 
