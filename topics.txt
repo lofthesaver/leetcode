@@ -16,6 +16,11 @@ Backtracking:
 1079_letter_tile_possibilities
 1718_construct_the_lexicographically_largest_valid_sequence
 2375_construct_smallest_number_from_di_string
+1980_find_unique_binary_string
 
 Bipartite:
 2493_divide_nodes_into_max_num_of_groups
+
+Cantor's Diagonal Proof
+1980_find_unique_binary_string
+
