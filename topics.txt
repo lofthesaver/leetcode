@@ -21,6 +21,6 @@ Backtracking:
 Bipartite:
 2493_divide_nodes_into_max_num_of_groups
 
-Cantor's Diagonal Proof
+Cantor's Diagonal Proof:
 1980_find_unique_binary_string
 
