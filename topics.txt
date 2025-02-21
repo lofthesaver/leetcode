@@ -6,6 +6,9 @@ BFS:
 2658_maximum_number_of_fish_in_a_grid
 2698_find_the_punishment_number_of_an_integer
 
+DFS:
+1261_find_elements_in_a_contaminated_binary_tree
+
 UFDS:
 0684_redundant_connection
 
