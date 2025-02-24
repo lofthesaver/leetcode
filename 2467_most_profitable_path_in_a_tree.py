@@ -11,7 +11,7 @@ class Solution:
         # 2. DFS from bob, record the path it takes from bob to node 0, mark the nodes
         # that it traversed through with the number of steps it took to get to that node
 
-        # 3. BFS from Alice, store cost it takes to get to each node with array,
+        # 3. DFS from Alice, store cost it takes to get to each node with array,
         # after BFS return the maximum
 
         # Create adjList
@@ -75,7 +75,7 @@ class Solution:
         num_of_moves[starting_node] = curr_moves
 
 
-        # Step 3 - BFS from alice, mark cost it takes to reach all the nodes
+        # Step 3 - DFS from alice, mark cost it takes to reach all the nodes
 
         # Initiate visited array
         visited = [0] * n
