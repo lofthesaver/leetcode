@@ -30,3 +30,6 @@ Bipartite:
 Cantor's Diagonal Proof:
 1980_find_unique_binary_string
 
+Prefix Sum:
+1524_number_of_subarrays_with_odd_sum
+
