@@ -33,3 +33,5 @@ Cantor's Diagonal Proof:
 Prefix Sum:
 1524_number_of_subarrays_with_odd_sum
 
+Subarrays/Kadane's Algorithm:
+1749_maximum_absolute_sum_of_any_subarray
