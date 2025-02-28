@@ -38,3 +38,5 @@ Subarrays/Kadane's Algorithm:
 
 Dynamic Programming:
 0873_length_of_longest_fibonacci_subsequence
+1143_longest_common_subsequence
+1092_shortest_common_supersequence
