@@ -16,4 +16,5 @@ class Solution:
 
         return less_than_pivot + [pivot] * equal_to_pivot + greater_than_pivot
 
+
 print(Solution().pivotArray([9,12,5,10,14,3,10], 10))
