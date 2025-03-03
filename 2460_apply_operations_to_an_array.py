@@ -15,3 +15,4 @@ class Solution:
                 curr_index += 1
 
         return nums
+        
