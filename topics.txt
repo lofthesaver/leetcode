@@ -1,3 +1,5 @@
+'''Graphs'''
+
 BFS:
 0407_trapping_rain_water_ii
 1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid
@@ -12,9 +14,6 @@ DFS:
 0889_construct_binary_tree_from_preorder_and_postorder_traversal
 2467_most_profitable_path_in_a_tree
 
-UFDS:
-0684_redundant_connection
-
 Toposort:
 0802_find_eventual_safe_states
 
@@ -27,8 +26,24 @@ Backtracking:
 Bipartite:
 2493_divide_nodes_into_max_num_of_groups
 
+
+'''Math Algorithms'''
+
+Sieve of Eratosthenes:
+2523_closest_prime_numbers_in_range
+
 Cantor's Diagonal Proof:
 1980_find_unique_binary_string
+
+
+'''Data Structures'''
+
+UFDS:
+0684_redundant_connection
+
+
+
+'''Other'''
 
 Prefix Sum:
 1524_number_of_subarrays_with_odd_sum
@@ -41,5 +56,5 @@ Dynamic Programming:
 1143_longest_common_subsequence
 1092_shortest_common_supersequence
 
-Sieve of Eratosthenes:
-2523_closest_prime_numbers_in_range
+Sliding Window:
+2379_minimum_recolors_to_get_k_consecutive_black_blocks
