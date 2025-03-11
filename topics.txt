@@ -59,3 +59,7 @@ Dynamic Programming:
 Sliding Window:
 2379_minimum_recolors_to_get_k_consecutive_black_blocks
 3208_alternating_groups_ii
+
+Sliding Window/Substrings:
+3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii
+1358_number_of_substrings_containing_all_three_characters
