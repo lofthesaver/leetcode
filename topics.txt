@@ -47,6 +47,7 @@ UFDS:
 
 Prefix Sum:
 1524_number_of_subarrays_with_odd_sum
+3356_zero_array_transformation_ii
 
 Subarrays/Kadane's Algorithm:
 1749_maximum_absolute_sum_of_any_subarray
@@ -59,10 +60,16 @@ Dynamic Programming:
 Sliding Window:
 2379_minimum_recolors_to_get_k_consecutive_black_blocks
 3208_alternating_groups_ii
+3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii
+1358_number_of_substrings_containing_all_three_characters
 
-Sliding Window/Substrings:
+Substrings:
 3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii
 1358_number_of_substrings_containing_all_three_characters
 
 Binary Search:
 2529_maximum_count_of_positive_integer_and_negative_integer
+3356_zero_array_transformation_ii
+
+Difference Array:
+3356_zero_array_transformation_ii
