@@ -76,3 +76,5 @@ Binary Search:
 Difference Array:
 3356_zero_array_transformation_ii
 
+Bit Manipulation:
+2206_divide_array_into_equal_pairs
