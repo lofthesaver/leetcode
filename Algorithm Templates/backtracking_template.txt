@@ -1,3 +1,5 @@
+Version 1: for multiple solutions
+
 function backtrack(candidate):
     # Base case: If the candidate is a solution, output it
     if candidate is a solution:
