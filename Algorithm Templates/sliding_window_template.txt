@@ -7,6 +7,7 @@ def slidingWindow(s: str):
     # in the window, which can vary depending on the problem
     window = ...
 
+    # Initial window
     left, right = 0, 0
 
     while right < len(s):
