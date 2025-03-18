@@ -1,4 +1,5 @@
 def binary_search(array) -> int:
+
     def condition(value) -> bool:
         pass
 
