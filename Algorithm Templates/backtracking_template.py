@@ -25,7 +25,6 @@ def solve():
     backtrack(initial_candidate)
 
 
-
 # Version 2: if you only want 1 solution (function will end when it reaches a solution)
 def backtrack(candidate):
 
