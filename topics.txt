@@ -78,3 +78,4 @@ Difference Array:
 
 Bit Manipulation:
 2206_divide_array_into_equal_pairs
+2401_longest_nice_subarray
