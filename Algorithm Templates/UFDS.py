@@ -6,7 +6,7 @@ class UFDS():
         self.parents = list(range(n))
         self.size = [1] * n
 
-    # Find parent of node
+    # Find parent of given node
     def find(self, x):
         if self.parents[x] != x:
             self.parents[x] = self.find(self.parents[x])
