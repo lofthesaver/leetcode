@@ -2,6 +2,7 @@
 # contains a parent array (for find), and a size array (for union)
 class UFDS():
 
+    # Initialize UFDS with parents and size
     def __init__(self, n):
         self.parents = list(range(n))
         self.size = [1] * n
