@@ -52,7 +52,6 @@ class Solution:
         return num_of_ways[n - 1]
 
 
-    
 # print(Solution().countPaths(n = 7, roads = [[0,6,7],[0,1,2],[1,2,3],[1,3,3],[6,3,3],[3,5,1],[6,5,1],[2,5,1],[0,4,5],[4,6,2]]))
 # print(Solution().countPaths(n = 2, roads = [[1,0,10]]))
-print(Solution().countPaths(n = 6, roads = [[3,0,4],[0,2,3],[1,2,2],[4,1,3],[2,5,5],[2,3,1],[0,4,1],[2,4,6],[4,3,1]]))
+# print(Solution().countPaths(n = 6, roads = [[3,0,4],[0,2,3],[1,2,2],[4,1,3],[2,5,5],[2,3,1],[0,4,1],[2,4,6],[4,3,1]]))
