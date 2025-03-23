@@ -22,7 +22,7 @@ class Solution:
         pq = [(0, 0)] # first argument is the cost, second argument is the node
         heapq.heapify(pq)
 
-        # Initiate number of ways with minimum cost to get to each nodex
+        # Initiate number of ways with minimum cost to get to each node
         num_of_ways = [0] * n
         num_of_ways[0] = 1
 
