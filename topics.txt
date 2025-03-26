@@ -89,3 +89,6 @@ Bit Manipulation:
 Merge Intervals:
 3169_count_days_without_meetings
 3394_check_if_grid_can_be_cut_into_sections
+
+Sorting:
+2033_minimum_operations_to_make_a_uni_value_grid
