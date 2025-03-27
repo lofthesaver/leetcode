@@ -53,6 +53,7 @@ UFDS:
 
 Prefix Sum:
 1524_number_of_subarrays_with_odd_sum
+2780_minimum_index_of_a_valid_split
 3356_zero_array_transformation_ii
 
 Subarrays/Kadane's Algorithm:
