@@ -6,6 +6,7 @@ BFS:
 1415_the_kth_lexicographical_string_of_all_happy_strings_of_length_n
 2115_find_all_possible_recipes_from_given_supplies
 2493_divide_nodes_into_the_maximum_number_of_groups
+2503_maximum_number_of_points_from_grid_queries
 2658_maximum_number_of_fish_in_a_grid
 2685_count_the_number_of_complete_components
 2698_find_the_punishment_number_of_an_integer
@@ -48,6 +49,8 @@ UFDS:
 0684_redundant_connection
 3108_minimum_cost_walk_in_weighted_graph
 
+Priority Queue:
+2503_maximum_number_of_points_from_grid_queries
 
 '''Other'''
 
