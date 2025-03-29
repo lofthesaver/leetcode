@@ -38,9 +38,13 @@ Diijkstra's Algorithm
 
 Sieve of Eratosthenes:
 2523_closest_prime_numbers_in_range
+2818_apply_operations_to_maximize_score
 
 Cantor's Diagonal Proof:
 1980_find_unique_binary_string
+
+Fast Exponentiation:
+2818_apply_operations_to_maximize_score
 
 
 '''Data Structures'''
@@ -51,6 +55,10 @@ UFDS:
 
 Priority Queue:
 2503_maximum_number_of_points_from_grid_queries
+
+Monotonic Stack:
+2818_apply_operations_to_maximize_score
+
 
 '''Other'''
 
