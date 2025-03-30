@@ -104,3 +104,6 @@ Merge Intervals:
 
 Sorting:
 2033_minimum_operations_to_make_a_uni_value_grid
+
+Two Pointers:
+763_partition_labels
