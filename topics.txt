@@ -22,6 +22,7 @@ Toposort:
 2115_find_all_possible_recipes_from_given_supplies
 
 Backtracking:
+0046_permutations
 1079_letter_tile_possibilities
 1718_construct_the_lexicographically_largest_valid_sequence
 1980_find_unique_binary_string
@@ -55,6 +56,7 @@ UFDS:
 
 Priority Queue:
 2503_maximum_number_of_points_from_grid_queries
+2551_put_marbles_in_bags
 
 Monotonic Stack:
 2818_apply_operations_to_maximize_score
@@ -107,3 +109,6 @@ Sorting:
 
 Two Pointers:
 763_partition_labels
+
+Partitions:
+2551_put_marbles_in_bags
