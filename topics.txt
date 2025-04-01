@@ -76,6 +76,7 @@ Dynamic Programming:
 0873_length_of_longest_fibonacci_subsequence
 1092_shortest_common_supersequence
 1143_longest_common_subsequence
+2140_solving_questions_with_brainpower
 
 Sliding Window:
 1358_number_of_substrings_containing_all_three_characters
