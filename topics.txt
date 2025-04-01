@@ -102,6 +102,7 @@ Bit Manipulation:
 2401_longest_nice_subarray
 
 Merge Intervals:
+0057_insert_interval
 3169_count_days_without_meetings
 3394_check_if_grid_can_be_cut_into_sections
 
