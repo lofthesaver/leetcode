@@ -22,5 +22,6 @@ class Solution:
         return res
 
 
+
 print(Solution().maximumTripletValue(nums = [12,6,1,2,7]))
 print(Solution().maximumTripletValue(nums = [1,10,3,4,19]))
