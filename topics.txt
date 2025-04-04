@@ -14,6 +14,7 @@ BFS:
 DFS:
 0889_construct_binary_tree_from_preorder_and_postorder_traversal
 1028_recover_a_tree_from_preorder_traversal
+1123_lowest_common_ancestor_of_deepest_leaves
 1261_find_elements_in_a_contaminated_binary_tree
 2467_most_profitable_path_in_a_tree
 
@@ -60,6 +61,9 @@ Priority Queue:
 
 Monotonic Stack:
 2818_apply_operations_to_maximize_score
+
+Tree Traversal:
+1123_lowest_common_ancestor_of_deepest_leaves
 
 
 '''Other'''
