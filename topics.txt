@@ -80,6 +80,7 @@ Subarrays/Kadane's Algorithm:
 
 Dynamic Programming:
 0368_largest_divisible_subset
+0416_partition_equal_subset_sum
 0873_length_of_longest_fibonacci_subsequence
 1092_shortest_common_supersequence
 1143_longest_common_subsequence
