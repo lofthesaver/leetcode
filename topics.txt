@@ -78,6 +78,9 @@ Prefix/Suffix Sum:
 Subarrays/Kadane's Algorithm:
 1749_maximum_absolute_sum_of_any_subarray
 
+0/1 Knapsack DP:
+0416_partition_equal_subset_sum
+
 Dynamic Programming:
 0368_largest_divisible_subset
 0416_partition_equal_subset_sum
