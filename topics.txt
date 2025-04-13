@@ -47,6 +47,7 @@ Cantor's Diagonal Proof:
 1980_find_unique_binary_string
 
 Fast Exponentiation:
+1922.count_good_numbers
 2818_apply_operations_to_maximize_score
 
 
