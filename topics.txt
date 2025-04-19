@@ -126,7 +126,8 @@ Sorting:
 2033_minimum_operations_to_make_a_uni_value_grid
 
 Two Pointers:
-763_partition_labels
+0763_partition_labels
+2563_count_the_number_of_fair_pairs
 
 Partitions:
 2551_put_marbles_in_bags
