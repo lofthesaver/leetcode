@@ -99,6 +99,7 @@ Dynamic Programming:
 
 Sliding Window:
 1358_number_of_substrings_containing_all_three_characters
+2302_count_subarrays_with_score_less_than_k
 2379_minimum_recolors_to_get_k_consecutive_black_blocks
 2537_count_the_number_of_good_subarrays
 2799_count_complete_subarrays_in_an_array
