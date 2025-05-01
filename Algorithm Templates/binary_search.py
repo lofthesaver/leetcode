@@ -5,6 +5,9 @@ def binary_search(array) -> int:
 
     left, right = min(search_space), max(search_space) 
     while left < right:
+
+        # This mid formula works if finding the minimum left value which satisfies the condition;
+        # to find maximum, use mid = left + (right - left + 1) // 2
         mid = left + (right - left) // 2
 
         if condition(mid):
