@@ -105,6 +105,7 @@ Sliding Window:
 2379_minimum_recolors_to_get_k_consecutive_black_blocks
 2537_count_the_number_of_good_subarrays
 2799_count_complete_subarrays_in_an_array
+2900_longest_unequal_adjacent_groups_subsequence_i
 3208_alternating_groups_ii
 3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii
 
@@ -140,3 +141,6 @@ Two Pointers:
 
 Partitions:
 2551_put_marbles_in_bags
+
+Greedy:
+2900_longest_unequal_adjacent_groups_subsequence_i
