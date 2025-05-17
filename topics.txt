@@ -133,6 +133,7 @@ Merge Intervals:
 3394_check_if_grid_can_be_cut_into_sections
 
 Sorting:
+0075_sort_colors
 2033_minimum_operations_to_make_a_uni_value_grid
 
 Two Pointers:
