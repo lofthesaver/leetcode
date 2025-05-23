@@ -83,6 +83,7 @@ Prefix/Suffix Sum:
 2145_count_the_hidden_sequences
 2780_minimum_index_of_a_valid_split
 2874_maximum_value_of_an_ordered_triplet_ii
+3355_zero_array_transformation_i
 3356_zero_array_transformation_ii
 
 Subarrays/Kadane's Algorithm:
@@ -145,3 +146,4 @@ Partitions:
 
 Greedy:
 2900_longest_unequal_adjacent_groups_subsequence_i
+3068_find_the_maximum_sum_of_node_values
