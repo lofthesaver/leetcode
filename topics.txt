@@ -77,6 +77,9 @@ Binary Indexed Tree (Fenwick Tree):
 Hash Table:
 0781_rabbits_in_forest
 
+Stack:
+3170_lexicographically_minimum_string_after_removing_stars
+
 
 '''Other'''
 
