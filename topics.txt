@@ -143,6 +143,7 @@ Merge Intervals:
 Sorting:
 0075_sort_colors
 2033_minimum_operations_to_make_a_uni_value_grid
+2966_divide_array_into_arrays_with_max_difference
 
 Two Pointers:
 0763_partition_labels
