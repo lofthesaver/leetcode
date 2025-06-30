@@ -5,31 +5,20 @@ class Solution:
         nums.sort()
         
         # Set left as min and right as max of subsequence
-        left, right = 0, 0
+        left = 0
 
-        # Recod result
+        # Record result
         res = 0
 
-        while right < len(nums):
-            # print(left, right)
-
-            # Calculate difference between min and max
-            diff = nums[right] - nums[left]
-
+        for right in range(len(nums)):
+            
             # If difference less than 1, increment right
-            if diff < 1:
-                right += 1
-
-            # If difference greater than 1, increment left
-            elif diff > 1:
+            while nums[right] - nums[left] > 1:
                 left += 1
 
             # If difference equal 1, record length of subsequence
-            else:
+            if nums[right] - nums[left] == 1:
                 res = max(right - left + 1, res)
-
-                # Increment right
-                right += 1
 
         return res
 
